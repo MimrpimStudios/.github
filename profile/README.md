@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 This organization is for my games and others
+<br>
 If you want to contat us, send us a mail on [mimrpim@gmail.com](mailto:mimrpim@gmail.com)
+<br>
 If tou want to look on our docs etc. look on our web: [web url](https://google.com)
+<br>
 <!--
 
 **Here are some ideas to get you started:**
