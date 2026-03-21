@@ -4,8 +4,9 @@ This organization is for my games and others
 <br>
 If you want to contat us, send us a mail on [mimrpim@gmail.com](mailto:mimrpim@gmail.com)
 <br>
-If tou want to look on our docs etc. look on our web: [web url](https://google.com)
+If tou want to look on our docs etc. look on our web: [web url](https://mimrpimstudios.github.io)
 <br>
+Look on [Gamesa](https://github.com/mimrpimstudios/gamesa) (our game) or [E.V.A. (CnC fun project)](https://github.com/mimrpimstudios/e.v.a.)
 <!--
 
 **Here are some ideas to get you started:**
